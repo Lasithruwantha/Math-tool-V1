@@ -3,11 +3,10 @@
 <h1>termux python calculator</h1>
 
 ## termux install 
-# ***1[download termux]( https://termux.en.uptodown.com )***
+# ***1[download termux]( https://termux.en.uptodown.com)
+# Follow the Tech Of Android channel on WhatsApp: https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j
 
-<a href=" https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j"> join channels</a>
-
-# cmd type by termux 
+## cmd type by termux 
 1. pkg update-y
 2. pkg upgrade -y
 3. pkg install git -y
