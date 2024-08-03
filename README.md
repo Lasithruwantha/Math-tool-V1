@@ -3,9 +3,7 @@
 <h1>termux python calculator</h1>
 
 ## termux install 
-# ***[download termux](
-Termux for Android - Download the APK from Uptodown
-Uptodown https://termux.en.uptodown.com › Tools › General)***
+# ***[download termux](Termux for Android - Download the APK from Uptodown Uptodown https://termux.en.uptodown.com › Tools › General)***
 
 <a href=" https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j"> join channels</a>
 
