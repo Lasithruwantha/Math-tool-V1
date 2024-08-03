@@ -3,10 +3,10 @@
 <h1>termux python calculator</h1>
 
 ## termux install 
-<a href="
-Termux | F-Droid - Free and Open Source Android App ...
-F-Droid
-https://f-droid.org › packages › com.termux">termux</a>
+[download termux](
+Termux for Android - Download the APK from Uptodown
+Uptodown
+https://termux.en.uptodown.com › Tools › General)
 
 <a href=" https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j"> join channels</a>
 
