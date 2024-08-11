@@ -4,9 +4,10 @@
 
 ## termux install 
 # ***1[download termux]( https://termux.en.uptodown.com)
-# Follow the Tech Of Android channel on WhatsApp: https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j
+# [Flow my whatsapp](https://whatsapp.com/channel/0029Vag17YJFHWq9MkOrCl0j)
 
 ## cmd type by termux 
+
 1. pkg update-y
 2. pkg upgrade -y
 3. pkg install git -y
